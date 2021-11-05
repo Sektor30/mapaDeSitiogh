@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mapaDeSitiogh/static/css/main.3df27372.chunk.css",
+    "main.js": "/mapaDeSitiogh/static/js/main.0651fe1b.chunk.js",
+    "main.js.map": "/mapaDeSitiogh/static/js/main.0651fe1b.chunk.js.map",
+    "runtime-main.js": "/mapaDeSitiogh/static/js/runtime-main.d0e274bb.js",
+    "runtime-main.js.map": "/mapaDeSitiogh/static/js/runtime-main.d0e274bb.js.map",
+    "static/js/2.40bcad55.chunk.js": "/mapaDeSitiogh/static/js/2.40bcad55.chunk.js",
+    "static/js/2.40bcad55.chunk.js.map": "/mapaDeSitiogh/static/js/2.40bcad55.chunk.js.map",
+    "static/js/3.03f93688.chunk.js": "/mapaDeSitiogh/static/js/3.03f93688.chunk.js",
+    "static/js/3.03f93688.chunk.js.map": "/mapaDeSitiogh/static/js/3.03f93688.chunk.js.map",
+    "index.html": "/mapaDeSitiogh/index.html",
+    "static/css/main.3df27372.chunk.css.map": "/mapaDeSitiogh/static/css/main.3df27372.chunk.css.map",
+    "static/js/2.40bcad55.chunk.js.LICENSE.txt": "/mapaDeSitiogh/static/js/2.40bcad55.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0e274bb.js",
+    "static/js/2.40bcad55.chunk.js",
+    "static/css/main.3df27372.chunk.css",
+    "static/js/main.0651fe1b.chunk.js"
+  ]
+}
